@@ -1,0 +1,19 @@
+cloud:
+  aws:
+    credentials:
+      access-key: AKIAWOBDDJIKAAMSBMRA
+      secret-key: 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
+    region:
+      static: ap-south-1
+    stack:
+      auto: false
+
+application:
+  bucket:
+    name: springbootapplications
+
+
+spring: <1 key>
+
+server:
+  port: 9090
